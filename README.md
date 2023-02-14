@@ -1,2 +1,2 @@
 # Lucca
-repoisitory from git class
+repository from git class
